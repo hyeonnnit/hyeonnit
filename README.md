@@ -1,7 +1,5 @@
 
  ![Screenshot_6](https://github.com/user-attachments/assets/d8894f65-e470-4bb1-8cfe-88840ad8c6a9)
-
-
   
 <!--내용 부분-->
 <h1 align="center">⚙️ Tech Stack</h1>
