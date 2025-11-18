@@ -1,50 +1,57 @@
-
  ![Screenshot_17](https://github.com/user-attachments/assets/a044d15b-8462-4f11-aa28-0739497dbbe3)
-  
-<!--내용 부분-->
-<h1 align="center">⚙️ Tech Stack</h1>
-<div align="center">
+<br><br>
 
+<!-- Tech Stack -->
+<h1 align="left">⚙️ Tech Stack</h1>
+<div align="left">
 
-### Language
+  <!-- Language -->
+  <h3>Language</h3>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+  <br><br>
 
+  <!-- Framework -->
+  <h3>Framework & Library</h3>
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ajax-0078D4.svg?style=flat&logo=javascript&logoColor=white" />
 
-### FrameWork
+  <br><br>
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+  <!-- DB -->
+  <h3>Database</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" />
 
-### DB
-
-![H2](https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white)
 </div>
 
-<br>
+<br><br>
 
-<h1 align="center">🛠 Tools</h1>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+<!-- Tools -->
+<h1 align="left">🛠 Tools</h1>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F8F8F8.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<br>
+<br><br>
 
-<h1 align="center">📫 Contact</h1>
-<div align="center">
+<!-- Contact -->
+<h1 align="left">📫 Contact</h1>
+<div align="left">
   <a href="mailto:lhyeonnit@gmail.com">
-    <img
-      src="https://img.shields.io/badge/lhyeonnit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/lhyeonnit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br><br>
